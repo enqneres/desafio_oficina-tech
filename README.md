@@ -3,6 +3,10 @@
 ## 📝 Descrição
 OficinaTech é um sistema web desenvolvido para auxiliar oficinas mecânicas no gerenciamento de ordens de serviço, clientes e veículos. O sistema oferece uma interface intuitiva e funcionalidades completas para o controle eficiente das operações diárias de uma oficina mecânica.
 
+## 🕶 Diagrama
+
+![alt text](<Untitled diagram-2025-01-27-154807-1.png>)
+
 ## 🚀 Funcionalidades Principais
 
 ### Gestão de Clientes
